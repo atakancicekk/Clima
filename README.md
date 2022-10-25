@@ -24,3 +24,7 @@ I have made a beautiful, dark-mode enabled weather app. You'll be able to check 
 * Learn to use Core Location to get the current location from the phone GPS. 
 
 
+
+https://user-images.githubusercontent.com/55702254/197797965-7f09a2f7-9948-425a-95d1-47718714f664.mov
+
+
