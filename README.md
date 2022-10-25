@@ -8,6 +8,17 @@
 
 I have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
+
+
+
+![RPReplay_Final1666706699](https://user-images.githubusercontent.com/55702254/197798780-bd48a588-5cc0-4b6a-8bf7-7adfa6d3ce06.gif)
+
+
+
+
+
+
+
 ## What I Learned by building this app
 
 * How to create a dark-mode enabled app.
@@ -22,9 +33,5 @@ I have made a beautiful, dark-mode enabled weather app. You'll be able to check 
 * Parse JSON with the native Encodable and Decodable protocols. 
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
-
-
-
-https://user-images.githubusercontent.com/55702254/197797965-7f09a2f7-9948-425a-95d1-47718714f664.mov
 
 
